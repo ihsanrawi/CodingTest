@@ -4,8 +4,8 @@
 
 ### In `Website` folder
 
-1. Run `yarn / npm` to download node_modules dependencies.
-2. Then run `yarn start / npm start` to run the React server.
+1. Run `yarn` or `npm` to download node_modules dependencies.
+2. Then run `yarn start` or `npm start` to run the React server.
 3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### In `Web Api` folder
